@@ -1,0 +1,6 @@
+#ignore .txt files
+AdventOfCode/bin
+AdventOfCode/obj
+AdventOfCode/.idea
+.idea
+*.suo
